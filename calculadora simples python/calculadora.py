@@ -4,11 +4,11 @@ op = int(input('\n----------------------------------\n[1]Para (+)\n[2]Para (-)\n
 
 if op == 1:
     print('\nOPERAÇÃO ESCOLHIDA: SOMA')
-if op == 2:
+elif op == 2:
     print('\nOPERAÇÃO ESCOLHIDA: SUBTRAÇÃO')
-if op == 3:
+elif op == 3:
     print('\nOPERAÇÃO ESCOLHIDA: DIVISÃO')
-if op == 4:
+elif op == 4:
     print('\nOPERAÇÃO ESCOLHIDA: MULTIPLICAÇÃO')
 
 while op != 1 and op != 2 and op != 3 and op != 4:
