@@ -1,4 +1,3 @@
-Markdown
 # 🧮 Calculadora Simples (Python)
 
 Projeto básico que fiz pra treinar a lógica em Python e entender como o Git funciona na prática. É uma calculadora de terminal, mas que já resolve o problema sem frescura.
