@@ -1,32 +1,32 @@
-# Calculadora Simples em Python
+Markdown
+# 🧮 Calculadora Simples (Python)
 
-Um projeto de terminal em Python que realiza operações matemáticas básicas (soma, subtração, divisão e multiplicação).  
-Este script foi desenvolvido como exercício de lógica, condicionais e interação com o usuário — ideal para iniciantes solidificarem conceitos fundamentais de programação.
+Projeto básico que fiz pra treinar a lógica em Python e entender como o Git funciona na prática. É uma calculadora de terminal, mas que já resolve o problema sem frescura.
 
----
+## 🚀 O que ela faz?
 
-# Funcionalidades
+Dá pra fazer as quatro operações padrão:
+* ➕ Soma
+* ➖ Subtração
+* ✖️ Multiplicação
+* ➗ Divisão (com trava pra não dar erro se dividir por zero)
 
-Esse programa:
+## 🛠️ Como testar
 
-- Recebe o **1º termo** do usuário
-- Pede para escolher um tipo de operação (adição, subtração, divisão ou multiplicação)  
-- Valida se a escolha é válida, pedindo novamente se necessário  
-- Recebe o **2º termo**
-- Realiza a operação escolhida com tratamento para divisão por zero
-- Exibe o resultado no final
+Se tu tiver o Python instalado, é só mandar bala:
 
----
+1. Clone o repo:
+   ```bash
+   git clone [https://github.com/GabrielOliveira8684/CalculadoraSimples.git](https://github.com/GabrielOliveira8684/CalculadoraSimples.git)
+Roda o script:
 
-# Como executar
+Bash
+python calculadora.py
+🧠 O que eu pratiquei aqui
+Usei while pra calculadora não fechar do nada.
 
-Para rodar essa calculadora no terminal (cmd, PowerShell, Terminal do VS Code, etc.):
+Lógica de if/elif pra separar as contas.
 
-1. Certifique‑se de ter o **Python instalado** no sistema  
-2. Navegue até a pasta do projeto usando o terminal  
-3. Execute o script com um dos comandos abaixo:
+Começando a entender como organizar os arquivos e fazer os commits do jeito certo.
 
-```bash
-python nome_do_arquivo.py
-# ou, em algumas máquinas:
-python3 nome_do_arquivo.py
+Valeu por dar um check! ✌️
