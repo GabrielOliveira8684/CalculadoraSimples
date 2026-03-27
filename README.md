@@ -21,6 +21,7 @@ Roda o script:
 
 Bash
 python calculadora.py
+
 🧠 O que eu pratiquei aqui
 Usei while pra calculadora não fechar do nada.
 
