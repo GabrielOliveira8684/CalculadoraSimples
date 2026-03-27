@@ -20,6 +20,7 @@ Se tu tiver o Python instalado, é só mandar bala:
 Roda o script:
 
 Bash
+
 python calculadora.py
 
 🧠 O que eu pratiquei aqui
