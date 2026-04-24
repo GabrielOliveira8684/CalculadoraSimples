@@ -1,8 +1,8 @@
-# 🧮 Calculadora Simples (Python)
+# Calculadora Simples (Python)
 
 Projeto básico que fiz pra treinar a lógica em Python e entender como o Git funciona na prática. É uma calculadora de terminal, mas que já resolve o problema sem frescura.
 
-## 🚀 O que ela faz?
+## O que ela faz?
 
 Dá pra fazer as quatro operações padrão:
 * ➕ Soma
@@ -10,7 +10,7 @@ Dá pra fazer as quatro operações padrão:
 * ✖️ Multiplicação
 * ➗ Divisão (com trava pra não dar erro se dividir por zero)
 
-## 🛠️ Como testar
+## Como testar
 
 Se tu tiver o Python instalado, é só mandar bala:
 
@@ -23,7 +23,8 @@ Bash
 
 python calculadora.py
 
-🧠 O que eu pratiquei aqui
+## O que eu pratiquei aqui
+
 Usei while pra calculadora não fechar do nada.
 
 Lógica de if/elif pra separar as contas.
