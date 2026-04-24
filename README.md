@@ -31,4 +31,4 @@ Lógica de if/elif pra separar as contas.
 
 Começando a entender como organizar os arquivos e fazer os commits do jeito certo.
 
-Valeu por dar um check! ✌️
+Valeu, tchau!
